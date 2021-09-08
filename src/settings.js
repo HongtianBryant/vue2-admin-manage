@@ -1,6 +1,6 @@
 module.exports = {
 
-  title: '感恩恩师',
+  title: 'admin template',
 
   /**
    * @type {boolean} true | false

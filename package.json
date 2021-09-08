@@ -1,7 +1,7 @@
 {
-  "name": "thank-teacher-website",
+  "name": "vue-admin-manage",
   "version": "1.0.0",
-  "description": "thank teacher you and me",
+  "description": "vue admin template",
   "author": "gaohongtian@dinsmooth.com",
   "scripts": {
     "dev": "vue-cli-service serve",
